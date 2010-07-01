@@ -24,6 +24,6 @@ irc['trivia']['ident'] = 'TriviaBot'
 # Impostazioni RSS Bot
 irc['rss'] = {}
 irc['rss']['main'] = RssBot(channel, input, output)
-irc['rss']['nickname'] = 'FF[RSS]'
+irc['rss']['nickname'] = 'RssBot'
 irc['rss']['password'] = ''
-irc['rss']['ident'] = 'RSS'
+irc['rss']['ident'] = 'Rss'

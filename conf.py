@@ -17,9 +17,9 @@ port = 6667
 # Impostazioni TRIVIA Bot
 irc['trivia'] = {}
 irc['trivia']['main'] = TriviaBot(channel, input, output)
-irc['trivia']['nickname'] = 'FF[TRIVIA]'
+irc['trivia']['nickname'] = 'TriviaBot'
 irc['trivia']['password'] = ''
-irc['trivia']['ident'] = 'TRIVIA'
+irc['trivia']['ident'] = 'TriviaBot'
 
 # Impostazioni RSS Bot
 irc['rss'] = {}
